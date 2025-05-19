@@ -1,1 +1,31 @@
+Home GHG Emissions Audit (2025)
+
+This project applies the GHG Protocol Corporate Standard to estimate and analyze the Scope 1 and Scope 2 emissions of a residential unit using real utility and transportation data. It demonstrates the application of emissions accounting principles using EPA conversion factors, Excel-based modeling, and Tableau data visualization.
+
+---
+
+Project Overview
+
+- Goal: Calculate and visualize the greenhouse gas (GHG) emissions of a household over one year
+- **Scopes Included:**
+  - **Scope 1:** Natural gas use for heating and cooking
+  - **Scope 2:** Electricity consumption from the local grid
+  - *(Optional Scope 3: Personal vehicle emissions and dietary footprint included for added depth)*
+
+---
+
+## Tools & Methods
+
+| Tool        | Purpose                                  |
+|-------------|-------------------------------------------|
+| **Excel**   | Data input, emissions calculations        |
+| **Tableau** | Data visualization (pie and bar charts)   |
+| **EPA Factors** | Emissions conversion (kg CO₂e/unit) |
+
+---
+
+## Emissions Calculation
+
+All emissions were calculated using the formula:
+
 
